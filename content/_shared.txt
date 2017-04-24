@@ -1,0 +1,13 @@
+name: Pradeep Siddappa
+-
+profession: Media Experience Designer
+-
+email: 
+<pradeep3043@gmail.com>
+-
+address:
++91 9986378111
+-
+twitter:pradeepsiddappa
+-
+linkedin:pradeepsiddappa

@@ -1,0 +1,12 @@
+[06-May-2016 07:58:48 Australia/Melbourne] PHP Notice:  Undefined offset: 1 in /home/praderyj/public_html/free/app/page-data.inc.php on line 221
+[06-May-2016 17:24:43 Australia/Melbourne] PHP Notice:  Undefined variable: end_limit in /home/praderyj/public_html/free/app/parsers/template-parser.inc.php on line 148
+[06-May-2016 17:29:08 Australia/Melbourne] PHP Notice:  Undefined offset: 1 in /home/praderyj/public_html/free/app/page-data.inc.php on line 221
+[06-May-2016 17:36:32 Australia/Melbourne] PHP Notice:  Undefined offset: 1 in /home/praderyj/public_html/free/app/page-data.inc.php on line 221
+[06-May-2016 17:36:52 Australia/Melbourne] PHP Notice:  Undefined offset: 1 in /home/praderyj/public_html/free/app/page-data.inc.php on line 221
+[06-May-2016 17:37:27 Australia/Melbourne] PHP Notice:  Undefined offset: 1 in /home/praderyj/public_html/free/app/page-data.inc.php on line 221
+[06-May-2016 17:38:21 Australia/Melbourne] PHP Notice:  Undefined variable: end_limit in /home/praderyj/public_html/free/app/parsers/template-parser.inc.php on line 148
+[06-May-2016 17:38:26 Australia/Melbourne] PHP Notice:  Undefined variable: end_limit in /home/praderyj/public_html/free/app/parsers/template-parser.inc.php on line 148
+[06-May-2016 17:41:34 Australia/Melbourne] PHP Notice:  Undefined offset: 1 in /home/praderyj/public_html/free/app/page-data.inc.php on line 221
+[06-May-2016 17:42:40 Australia/Melbourne] PHP Notice:  Undefined variable: end_limit in /home/praderyj/public_html/free/app/parsers/template-parser.inc.php on line 148
+[06-May-2016 18:33:14 Australia/Melbourne] PHP Notice:  Undefined offset: 1 in /home/praderyj/public_html/free/app/page-data.inc.php on line 221
+[06-May-2016 18:33:25 Australia/Melbourne] PHP Notice:  Undefined variable: end_limit in /home/praderyj/public_html/free/app/parsers/template-parser.inc.php on line 148

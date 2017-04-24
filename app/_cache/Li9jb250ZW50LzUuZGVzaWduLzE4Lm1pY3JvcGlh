@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Micropia, Pradeep Siddappa's Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="../../public/docs/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="../../public/docs/css/project.css" rel="stylesheet" media="screen">
+    <link href="../../public/docs/css/main.css" rel="stylesheet" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Abel:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    
+
+    
+  </head>
+  <body>
+    
+    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="../../" class="navbar-brand">Pradeep Siddappa<br><span id="page_subtitle">Media Experience Designer</span></a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav pull-right">
+          	<li>
+		<a href="../../design/">Projects</a>
+	</li>
+	<li>
+		<a href="../../calendar/">Calendar</a>
+	</li>
+	<li>
+		<a href="../../bio/">Biography</a>
+	</li>
+
+
+        </ul>
+      </div><!-- /.navbar-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-7 col-lg-offset-1">
+          <div id="project-assets">
+  
+
+      <div id="carousel-example-generic" class="carousel slide">
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+                  <div class="item active">
+            <img src="../../content/5.design/18.micropia/6.jpg" alt="6">
+          </div>
+        
+                  <div class="item">
+            <img src="../../content/5.design/18.micropia/5.jpg" alt="5">
+          </div>
+                  <div class="item">
+            <img src="../../content/5.design/18.micropia/4.jpg" alt="4">
+          </div>
+                  <div class="item">
+            <img src="../../content/5.design/18.micropia/3.jpg" alt="3">
+          </div>
+                  <div class="item">
+            <img src="../../content/5.design/18.micropia/1.jpg" alt="1">
+          </div>
+                  <div class="item">
+            <img src="../../content/5.design/18.micropia/0.jpg" alt="0">
+          </div>
+        
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+        <span class="icon-prev"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+        <span class="icon-next"></span>
+      </a>
+    </div>
+  
+</div>
+        </div>
+        <div class="col-lg-4" id="page-desc">
+          <div id="project-title">
+    Micropia
+</div>
+<div id="project-subtitle">
+
+        <p>2014
+                           – with ART+COM
+            
+        </p>
+</div>
+<div id="project-content">
+    <p>Micropia is a unique museum that is set to inspire the general public, encouraging their interest in microorganisms and microbiology. The visual and the experiential are central, while the focus is firmly on the mostly positive relationship between microbes and humans. Micropia aims at becoming also an international platform for microbiology that brings diverse interest groups together in order to brigde the gap between science and the general public.</p>
+
+<p>The uniqueness of Micropia lies in its mix of living and virtual microbes. Most exhibits show living microorganisms as well as having a media extension. Film, images and text provide insight into microbe appearance and behaviour, and the diversity of the microorganism relationship with humans.</p>
+
+<p>Additionally, five large, pure media exhibits vividly convey microbiological knowledge. Right at the beginning of the exhibition, in the lift, a camera image zooms over the heads of visitors, closing in on the eye of one to reveal the microorganisms that commonly live on our eyelashes.</p>
+
+<p>Dramatic differences in size between various microscopic life forms can be seen on an almost 10 x 5 metre reactive monitor wall, on which microbes swim as though in an aquarium. In an interactive “extremophile“ panorama, visitors experience microbe life in places of extreme conditions such as radioactivity or cold. The virtual microorganisms float thanks to a special projection technique with dynamic 3D landscapes.</p>
+
+<p>Visitors encounter themselves and their microbes repeatedly throughout the exhibition, but perhaps most intensively with an installation where their bodies can be interactively explored: the visitor confronts a virtual ‘me’ and can explore the, on average, two-kilogram mass of microbes living in various parts of the body. The technology used is sophisticated body tracking.</p>
+
+<p>Alongside the microbes, the visitor is central to the exhibition — and on a number of levels: as observer, interactive agent and researcher, and as a valid object of self-exploration. The exhibition was designed by Kossmann.dejong, an Amsterdam-based exhibition design studio, in collaboration with ART+COM Studios. While Kossmann.dejong were responsible for the overall concept and scenography, ART+COM worked primarily on the conception, design and development of the media exhibits, from the very earliest sketches through to interaction design, programming and hardware design.</p>
+
+<p>Photos: Thijs Wolzak; Micropia, Maarten van der Wal</p>
+
+</div>
+
+
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+      	<div class="col-lg-12" id="footer">
+      		Pradeep Siddappa 2016
+      	</div>
+      </div>
+    </div>
+
+    <!-- JavaScript plugins (requires jQuery) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../../public/docs/js/bootstrap.min.js"></script>
+
+    <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+    <script src="../../public/docs/js/respond.js"></script>
+
+    <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-3042266-1', 'angesleva.iki.fi');
+	  ga('send', 'pageview');
+
+	</script>
+	
+  </body>
+</html>
+<!-- Stacey(2.3.0): 9ede0f94edfec3e289640c9824b8551f -->

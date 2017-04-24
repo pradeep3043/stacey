@@ -1,0 +1,18 @@
+if $children do
+
+		foreach $children do
+			<div class="project-description">
+              	  <a href="@url"><img src="@thumb">@title</a>
+              	if @title do
+              		<div class="down-text ">@date</div>
+              	endif	
+              	if @smallcontent do
+              		<div class="down-text description">@smallcontent</div>
+              	endif
+              	if @tags do
+              		<div class="down-text tags">&ndash; @tags</div>
+              	endif
+          	</div>
+        endforeach
+
+endif

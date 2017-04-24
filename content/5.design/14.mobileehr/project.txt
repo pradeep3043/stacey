@@ -1,0 +1,32 @@
+title: Mobile EHR System
+-
+webvideo:
+-
+team: 
+-
+date: 2015
+-
+keywords: Health Care App, Mobile EHR, USer Research
+-
+exposure:
+-
+content: 
+
+Simpliying EHR system for mobile system to create appointment, write consultation and follow ups.
+
+ <BR>
+
+<b>Summary</b>
+
+On designing this app, research was conducted with several doctors and the EHR systems in the market. Based on the the insights derived from the research, a simplied EHR system was built.
+
+The design involved in adding the basic elements which were needed during any basic consultation with respect to the context of Indian doctors. A vast database of medical terms and references were thoroughly analysed and added as per the needs of the doctors.
+
+
+<b>Tags</b>
+
+Mobile Application, Visual Design, Interaction Design
+
+<BR>
+
+<b> <a href="https://marvelapp.com/9c4d6d" target="_blank"> View Mobile App </a> </b>

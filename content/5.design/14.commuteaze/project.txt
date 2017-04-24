@@ -1,0 +1,36 @@
+title: Commuteaze
+-
+webvideo: //player.vimeo.com/video/169116810
+-
+team: 
+-
+date: 2014
+-
+keywords: Mobile application , User experience design, Interface design, Mixed Media
+-
+exposure:
+-
+content: 
+
+Smart ticketing + travel 
+
+ <BR>
+
+<b>Brief</b>
+
+New technology applications and design of business models
+
+<b>Summary</b>
+
+CommutEaze aims to help the everyday commuters who battle all odds in order to transverse distances, great or small, to their destinations.This app will provide commuters and transport providers with details of bus vacancies and track their positions en route in real time.
+
+CommutEaze is a versatile application that plans to make individual's experience of commuting in public transports easier. Daily, thousands of people use open transport systems in the towns and urban communities of India. And every day, the commute gets a little more tiresome, the buses a little more crowded and a sense of general well being in the commuters, a little more faded. 
+
+We from National Institute of Design and  Indian Institute of Management (IIM) , collaborated together to design this system which was brainstormed and thorough background research was carried out for
+every idea. Taking the role of user experience designer, insight gathered from the stratergic designer and business cases, this concept was developed. The concept involves two mediums and its user at different heirarchies to make the ecosystem complete.
+
+<b> <a href="http://www.slideshare.net/palli3043/commut-eaze-report"> Full report </a> </b>
+
+<b>Tags</b>
+
+UX Design, Concept Development, Mobile Application

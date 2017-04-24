@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Calendar, Pradeep Siddappa's Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="./public/docs/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="./public/docs/css/main.css" rel="stylesheet" media="screen">
+    <link href="./public/docs/css/about.css" rel="stylesheet" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Abel:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    
+    
+  </head>
+  <body>
+    
+    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="./" class="navbar-brand">Pradeep Siddappa<br><span id="page_subtitle">Media Experience Designer</span></a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav pull-right">
+          	<li>
+		<a href="./?/design/">Projects</a>
+	</li>
+	<li>
+		<a href="./?/calendar/">Calendar</a>
+	</li>
+	<li>
+		<a href="./?/bio/">Biography</a>
+	</li>
+
+
+        </ul>
+      </div><!-- /.navbar-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4" id="page-desc">
+          
+<div id="about-info">
+        	<p>
+        <a href="http://www.twitter.com/pradeepsiddappa">#pradeepsiddappa</a></p>
+    
+    
+            <p>
+        <p><a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x70;&#x72;&#x61;&#100;&#101;&#101;&#112;&#51;&#x30;&#x34;&#x33;&#x40;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x70;&#x72;&#x61;&#100;&#101;&#101;&#112;&#51;&#x30;&#x34;&#x33;&#x40;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;</a></p>
+</p>
+    
+
+        <p>
+        <p>+91 9986378111</p>
+
+    </p>
+    
+</div>
+        </div>
+        <div class="col-lg-7 col-lg-offset-1">
+          <div id="about-me-description">
+            <p>2015-09-29  <a href=“http://lightfest.ru/en/about/“>Circle of Light festival</a>, Moscow, Russia.</p>
+
+<p>2015-09-09  <a href=“http://tietonakyvaksi.fi/jussi-angesleva/“>Tieto Näkyväksi</a> conference in Helsinki, Finland.</p>
+
+<p>2014-12-01  <a href=“http://nodem.org/nodem-2014/keynote-speakers/>Meaning in the making</a> at NODEM’14, in Warsaw, Poland.</p>
+
+<p>2014-06-12  <a href=“http://sonar.es/en/2014/prg/sm/creative-technologies-caf%C3%A9_195>Creative Technologies Cafe at Sonar</a>, Barcelona.</p>
+
+<p>2014-04-04  Lecture: Aura of the digital at <a href="http://resonate.io/2014">Resonate</a> Belgrade, Serbia.</p>
+
+<p>2014-03-21  Lecture at Interactive Creation Camp, Tokyo, Japan.</p>
+
+<p>2014-02-01  Lecture: Aura of the digitally manufactured at <a href="http://www.rhizomatiks.com/event/superflyingtokyo/">Super Flying Tokyo"</a>, Tokyo, Japan.</p>
+
+<p>2013-11-12  Talk at Future of Museum Technology and Participation, Museum Associatoins conference, Liverpool, UK.</p>
+
+<p>…</p>
+
+<p>2012-11-07  Embodiment in spatial communication at <a href="http://aigany.org/events/design-hardware-embodiment-in-spatial-communication/">AIGA</a>, New York, USA.</p>
+
+<p>2012-10-18  Lecture about Exhibition in the cloud at <a href="http://rauchwolkenundluftschloesser.de/symposium/de">Rauchvolken und Luftschlösser</a> Symposium, Bremen, Germany.</p>
+
+<p>2012-10-04  Hybrid Worlds: Kinetics, Robotics and Interaction – Design between Technology and Aesthetics, <a href="http://www.bauhaus.de/">Bauhaus Archiv</a>, Berlin, Germany.</p>
+
+<p>2012-30-09  Keynote lecture at <a href="http://www.amaze-festival.de/">"Amaze Festival"</a>, Johannesburg, South Africa.</p>
+
+<p>2012-07-18  Opening of the Kinetic Rain artwork at Changi Airport, Singapore.</p>
+
+<p>2012-06-12  Permanent installation of the Last Clock at <a href="http://www.aec.at/zeitraum/lastclock.html"> Zeitraum</a> in Vienna Airport.</p>
+
+<p>2012-05-11  <a href="http://raum-welten.com/wp/#referenten">Raumwelten</a>, Stuttgart, Germany.</p>
+
+<p>2012-03-02  Media Design Talk, Hongik University, Seoul, Korea.</p>
+
+<p>2012-02-20  Student Design Challenge Chairing, TEI 2012, Kingston, Canada.</p>
+
+<p>2012-02-03  Renaissance of Space, Microsoft Research Asia, Beijing, China.</p>
+
+<p>2012-01-12  Renaissance of Space, International Design Conference - Research in graphic design, graphic design in research, Katowice, Poland.</p>
+
+<p>2011-11-03  Communicating Prototype, Hybrid Talks, Universität der Künste Berlin.</p>
+
+<p>2011-10-25  <a href="http://www.2011idacongress.com/english/tdc_eventsview.asp?PageCode=TD1B&PageSession=2&PageKey=2&EventNo=TD22-186"> Keynote at International Design Alliance Congress</a>, Taipei.</p>
+
+<p>2011-09-21  Medien im Raum symposium, Always On Festival, Berlin.</p>
+
+<p>2011-09-15  Talk at Aalto University, Taivex Senior manager 2, Arkadiankatu 28 A, Helsinki.</p>
+
+<p>2011-08-23  Media Design, Lasalle, Singapore.</p>
+
+<p>2011-08-03  ART+COM –Media Installations and Spaces Book launch. Ars Electronica, Linz.</p>
+
+<p>2011-06-10  AR Interface Design Symposium, Hongik University, Seoul, Korea</p>
+
+<p>2011-06-08  Design talk, Yonsei University, Wonju, Korea</p>
+
+<p>2011-04-11  Media Design in Exhibitions, MRes Information Environments, London College of Communication, UK</p>
+
+<p>2011-03-02  Helsinki, PixelAche 2011 - Lecture on Computational Photography</p>
+
+<p>2011-02-23  Tangible, Embedded and Embodied interaction Conference - Graduate Student Consortium, Funchal, Madeira</p>
+
+<p>2010-03-23  The Impact of Design / Higher Colleges of Technology, Al Ain, United Arab Emirates</p>
+
+<p>2009-06-17  Digital Thinking / Tama Art University , Tokyo, Japan,</p>
+
+<p>2009-06     Interactive Playground Design / Hongik University , Seoul, Korea</p>
+
+<p>2008-10-06  uDesign / Universidad de Monterrey , Monterrey, Mexico,</p>
+
+<p>2007-09-21  Third eye / Centre Pompidou , Paris, France,</p>
+
+<p>2007-03-09  Empowerment - Media in mass events / Tongji University International Media Art Center , Shanghai, China</p>
+
+<p>2005-12-28  22nd Chaos Communication Congress / Chaos Computer Club , Berliner Congress Center, Berlin, Germany</p>
+
+<p>2004-04-07  Embodiment in interaction design / Rhode Island School of Design , Rhode Island</p>
+
+<p>2004-03-02  My Work / ATR Media Information Science Laboratories , Kyoto, Japan</p>
+
+<p>2003-10-23  e-Culture Fair / Virtueel Platform , Amsterdam, Netherlands</p>
+
+<p>2003        Things That Think consortium / MIT Media Lab , Boston, USA</p>
+
+<p>2003        Doors East 2 / Doors of Perception , Bangalore, India</p>
+
+<p>…</p>
+
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+      	<div class="col-lg-12" id="footer">
+      		Pradeep Siddappa 2016
+      	</div>
+      </div>
+    </div>
+
+    <!-- JavaScript plugins (requires jQuery) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="./public/docs/js/bootstrap.min.js"></script>
+
+    <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+    <script src="./public/docs/js/respond.js"></script>
+
+    <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-3042266-1', 'angesleva.iki.fi');
+	  ga('send', 'pageview');
+
+	</script>
+	
+  </body>
+</html>
+<!-- Stacey(2.3.0): 5bfcd213963ae8890516f8f25df822c6 -->

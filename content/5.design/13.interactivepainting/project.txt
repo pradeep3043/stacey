@@ -1,0 +1,27 @@
+title: Interactive Painting
+-
+webvideo: //player.vimeo.com/video/111974689
+-
+team: 
+-
+date: 2013
+-
+keywords: Interactive Art, Interaction, Installation, Mixed Media
+-
+exposure:
+-
+content: 
+
+Interactive installation, for display at National Institute of Design.
+
+ <BR>
+
+<b>About the Installation</b>
+
+Every year, during the convocation at National Institute of Design, each department portrays their discipline, with a display/installation. We, from New Media Design, created an installation involving hybrid space between both physical and digital media. Visitors interacted with the digital butterflies, flying on the physical painted artwork.
+
+The team worked on different modules, involving artwork, physical computing, space design and interaction design.
+
+<b>Tags</b>
+
+Interactive Installation, Mixed Media, Interaction Design

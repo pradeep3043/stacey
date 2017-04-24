@@ -1,0 +1,23 @@
+title: Information & Interface Design (Compiled works)
+-
+team: Infosys Technologies 
+-
+date: 2012
+-
+keywords: Interface Design, Interaction Design, Smart TV App
+-
+exposure:
+-
+content: 
+
+Interface Design for Smart TV app.
+
+<BR>
+
+<b>Summary</b>
+
+Social network for the smart TV users of Flypp application- Flypp. I work on Interface Design for Smart TV Application - Flyyp. During this, I also worked on making the standard design template for reuse of assets in creating wireframes for the future smart TV applications.
+
+<b>Tags</b>
+
+Interface Design, Smart TV Application

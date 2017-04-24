@@ -1,0 +1,23 @@
+title: Visual Design for Smart TV App
+-
+team: Freelance
+-
+date: 2015
+-
+keywords: Interface Design, Interaction Design, Smart TV App, Visual Design
+-
+exposure:
+-
+content: 
+
+Visual Design for Smart TV application.
+
+<BR>
+
+<b>Summary</b>
+
+Video on demand application for a smart TV application, these visual were created. Standard visual design guidelines like Safe Area, D-Pad Navigation (not all remote are touch) are followed to give the best lean back experience.
+
+<b>Tags</b>
+
+Visual Design, Interface Design, Smart TV Application

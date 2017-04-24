@@ -1,0 +1,24 @@
+<div id="project-title">
+    @title
+</div>
+<div id="project-subtitle">
+
+        <p>@date
+            if @team do
+               – @team
+            endif
+        </p>
+</div>
+<div id="project-content">
+    @content
+</div>
+if @extrainfo do
+	<div id="project-more-info">
+    	@extrainfo
+    </div>
+endif
+if @tags do
+    <div id="project-tags">
+        &ndash; @tags
+    </div>
+endif

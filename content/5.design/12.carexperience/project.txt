@@ -1,0 +1,25 @@
+title: In Car User Experience
+-
+team: Visteon
+-
+keywords: Trend study, Exxperience Design, Concept Development.
+-
+date: 2014
+-
+content: 
+<b> Brief </b>
+<br>
+Design in vehicle experience of an automobile user ( D-Segment Car) in the year 2025 for Indian market.
+
+<b> Summary</b>
+<br>
+The project was done in collaboration with the Transportation and Automobile design students at the National Institute of Design, India. In this one week workshop, as an experience designer, I studied Design and Technology trends for a Indian market in the automobile sector for D segment cars.
+
+The process involved in development of persona, ideation and concept development for the future cars in India, possible during 2025 with the final designs focussed on chauffer driven cars.
+
+<b> Tags </b>
+<br>
+Experience Design, Interaction Design, Concept Development
+
+<br>
+<b><a href="http://www.slideshare.net/palli3043/incar-experience-for-automobile-experience-in-future"> View Process </a> </b>

@@ -1,0 +1,27 @@
+title: SecondSpace
+-
+team: 
+-
+date: 2015
+-
+keywords: User Research, Literature Study, Prototyping, Internet of things, Seamless Interaction
+-
+exposure:
+-
+content: 
+
+Ecosystem to access internet connect devices (IOT) across muliple individuals and at public spaces.
+
+<BR>
+
+<b>The Use Case</b>
+
+We now live in a connected world where the internet of things has made it possible for seemingly ordinary devices like the television, lighting systems, coffee makers and many such home appliances to form a smart and responsive ecosystem developed specifically with their user at the centre.
+
+However, imagine a case where you rent out your home at Airbnb, where this ecosystem of connected devices needs to be temporarily re-centred, i.e, access needs to be given to the visitor for a set duration. You will either need to create a new account, or pair it resetting and then after they leave, pair it back for your use.
+
+This is where SecondSpace can help. Second Space aims at allowing the device owner to authorise and control the device while simultaneously be used by the visitors without logging/pairing to use that device. With this system, vistors will be still able to get the same personalised coffee with the right amount of sugar, just the way their coffee maker at home would prepare it. The newly connected device can now understand the habits and needs of the visitor and treat him as a temporary, virtual owner.
+
+<b>Tags</b>
+
+Research, Concept Development, Internet of Things, Prototyping, Interaction Design

@@ -1,0 +1,25 @@
+foreach $images do
+	<div id="me-image">
+		<img src="@url" class="img-responsive" alt="Me"/>
+	</div>
+endforeach
+<div id="about-info">
+    if @twitter do
+    	<p>
+        <a href="http://www.twitter.com/@twitter">#@twitter</a></p>
+    endif
+    if @linkedin do
+        <p>
+        <a href="http://www.linkedin.com/in/@linkedin">@linkedin</a></p>
+    endif
+    if @email do
+        <p>
+        @email</p>
+    endif
+
+    if @address do
+    <p>
+        @address
+    </p>
+    endif
+</div>

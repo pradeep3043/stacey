@@ -1,0 +1,21 @@
+title: Decentralized Asset Renting - Work in Progress
+-
+webvideo:
+-
+team:
+-
+date: 2017
+-
+keywords: Blockchain, Ethereum, Concept Development, Interface Design, Prototyping, Experience Design, Service Design
+-
+exposure:
+-
+content:
+I am caught with the interest into the Ethereum blockchain ecosystem. Over weeks of research, trying to understand the ecosystem, now I am trying to simulate a service design ecosystem of rental services. Assume a scenario where, any vehicle out there parked, will be available for the rent. All the transactions from making am asset available for rent, renting, renting expiry and maintainance management logic will be taken care by the Smart contracts with the assets linked to all 3 individuals at different levels.
+The Proof of Concept will be a simulation on a standalone hardware and the tokens for the transactions will be probably tested with the Ethereum tokens in the test net.
+
+<b>Tags</b>
+
+Blockchain, Ethereum, Concept Development, Interface Design, Prototyping, Experience Design, Service Design
+
+<BR>

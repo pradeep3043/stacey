@@ -1,0 +1,24 @@
+title: IRCTC - Xplore
+-
+webvideo: 
+-
+team: 
+-
+date: 2016
+-
+keywords: User Research, Concept Development, Interface Design, Prototyping, Interaction Design, Experience Design
+-
+exposure:
+-
+content: 
+IRCTC Xplore is an application convept developed as a part of the assignemnt. The application, lets user to book Circular Journey as per the specifications of Indian Railways.
+
+<b>Tags</b>
+
+Design Thinking, Interaction Design, Experience Design, Internet of Things, Interactive Installation, Museum Experience
+
+<BR>
+
+<b> <a href="https://marvelapp.com/30eih7b" target="_blank"> View Mobile App </a> </b>
+
+ 

@@ -1,0 +1,37 @@
+title: LibrARi
+-
+webvideo: //player.vimeo.com/video/109692464
+-
+team: 
+-
+date: 2014
+-
+keywords: User Research, Literature Study, Prototyping, Augmented Reality, AR
+-
+exposure:
+-
+content: 
+
+Imagining Natural and interactive experience at library.
+
+ <BR>
+
+<b>Solution</b>
+
+librARi is an Augmented Reality Application, which is designed to eliminate the Dewey Decimal System which required the students to understand why books are numbered and how to find the numbers on the shelves, in order to use the library effectively . 
+
+In addition to that, the application allows anyone to access any specific book, just the way they have been naturally habituated to search for anything on the website.
+
+The augmented reality platform allows to use phones or any such device which supports AR and simply tells the user where a specific book is located in the library.
+
+<b>Research & Findings</b>
+
+While understanding how a library works, the research was done at the library of National Institute of Design. All libraries in the world follow a standard system, which is Dewey Decimal Classification. These standards are used by every librarian to arrange the books based on which, he/she will be able to access the books from the right shelves.
+
+The classification allows use of 3 digit number for main category, with the more fractional decimals allowing expansion for further details. These numbers assigned by the library makes it possible to find any book from library shelves. The students who were using library service were of two types, ones who comes into library and search for the desired book from the shelves/portal and the others who used portal before and noted down the reference numbers. Whoever came with the number (DDC), the first point of contact was the librarian desk.
+
+The portal is called KMC (Knowledge Management Center), which is centralised and available to search any book with keywords, actual book name, Author Name, subject and ISSN. In the observation, there were few students, who asked for the book name and librarians wrote down the DDC number on paper and let them search, pointing towards a particular shelf.
+
+<b>Tags</b>
+
+Research, Prototyping, Interaction Design

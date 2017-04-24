@@ -1,0 +1,45 @@
+get "/art"  do
+if $children do
+	<div id="project-container">
+		foreach $children do
+			<div class="project-description">
+               
+              	<div> <a href="@url"><img src="@thumb">@title</a></div>
+              	if @title do
+              		<div class="down-text ">@date</div>
+              	endif	
+              	if @smallcontent do
+              		<div class="down-text description">@smallcontent</div>
+              	endif
+              	if @tags do
+              		<div class="down-text tags">&ndash; @tags</div>
+              	endif
+          	</div>
+        endforeach
+    </div>
+endif
+end
+
+get "/design"  do
+		<div class="chapter"><hr></div>
+
+	if $children do
+	<div id="project-container">
+		foreach $children do
+			<div class="project-description">
+               
+              	<div> <a href="@url"><img src="@thumb">@title</a></div>
+              	if @title do
+              		<div class="down-text ">@date</div>
+              	endif	
+              	if @smallcontent do
+              		<div class="down-text description">@smallcontent</div>
+              	endif
+              	if @tags do
+              		<div class="down-text tags">&ndash; @tags</div>
+              	endif
+          	</div>
+        endforeach
+    </div>
+endif
+end

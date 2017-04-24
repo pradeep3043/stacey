@@ -1,0 +1,21 @@
+title: Kathorify
+-
+webvideo: //player.vimeo.com/video/99702849
+-
+team: 
+-
+date: 2013
+-
+keywords: Interactive Art, Kathorify, Interaction Design, Installation, Mixed Media
+-
+exposure:
+-
+content: 
+
+Kathorify is metaphorical tranformation of Artistotle's concept of Catharsis. "Catharsis (from Greek κάθαρσις katharsis meaning "purification" or "cleansing") is the purification and purgation of emotions—especially pity and fear—through art or any extreme change in emotion that results in renewal and restoration" <a href="https://en.wikipedia.org/wiki/Catharsis">Source </a>. The installation responds to the visitor's emotions through their voice as the medium.
+
+The experience is a closed space, where the audience enter a closed box and raise their voice to the maximum threshold they can reach. Inside the box, they can see themselves on a pixelated screen - a metaphor for life with multiple challenges. When the threshold reaches the maximum, their pixellated images will get sharper and they will be able to look at their self more clearly.
+
+<b>Tags</b>
+
+Art Installation, Prototyping, Interaction/Experience Design

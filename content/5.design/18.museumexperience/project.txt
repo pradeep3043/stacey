@@ -1,0 +1,28 @@
+title: Experience Design for Museum
+-
+webvideo:
+-
+team:
+-
+date: 2016
+-
+keywords: Design Thinking, User Research, Literature Study, Prototyping, Interaction Design, Experience Design
+-
+exposure:
+-
+content:
+The Netherlands Institute for Sound and Vision (<a href="http://www.beeldengeluid.nl"> BeeldEnGeluid </a>) holds  archives all Dutch audiovisual archives in the world of media (especially television and radio) and displays these in forms of interactive installation, video and audio forms. These installations and exhibits delivered the learning and nostalgic experiences for the Dutch families.
+
+<b>Project Brief<b>
+
+<p>To create an interactive experience for the museum to make visitors understand the social implications of new technologies and new media in their daily life.</p>
+
+<b>Process<b>
+
+<p>The final exhibit experience was achieved through multiple sprints under the SCRUM framework. Every sprint involved extensive user research, storyboarding, prototyping and iterating on each sprints based on the feedback from prototypes and testing.
+<p>
+The exhibit reached from these multiple iteration was an interactive board game. The board game not only involved entire family to play but also let the visitors explore the impact of new technology and media on their daily lives.</p>
+
+<b>Tags</b>
+
+<p>Design Thinking, Interaction Design, Experience Design, Internet of Things, Interactive Installation, Museum Experience </p>

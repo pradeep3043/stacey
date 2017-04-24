@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>RGB|CMY Kinetic, Jussi Ängeslevä's Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="./public/docs/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="./public/docs/css/project.css" rel="stylesheet" media="screen">
+    <link href="./public/docs/css/main.css" rel="stylesheet" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Abel:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    
+
+    
+  </head>
+  <body>
+    
+    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="./" class="navbar-brand">Jussi Ängeslevä<br><span id="page_subtitle">Media Art & Design</span></a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav pull-right">
+          	<li>
+		<a href="./?/art/">Art</a>
+	</li>
+	<li>
+		<a href="./?/design/">Design</a>
+	</li>
+	<li>
+		<a href="./?/calendar/">Calendar</a>
+	</li>
+	<li>
+		<a href="./?/bio/">Biography</a>
+	</li>
+
+
+        </ul>
+      </div><!-- /.navbar-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-7 col-lg-offset-1">
+          <div id="project-assets">
+  
+
+      <div id="carousel-example-generic" class="carousel slide">
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+                  <div class="item active">
+            <img src="./content/6.art/15.rgb-cmy-kinetic/6.jpg" alt="6">
+          </div>
+        
+                  <div class="item">
+            <img src="./content/6.art/15.rgb-cmy-kinetic/5.jpg" alt="5">
+          </div>
+                  <div class="item">
+            <img src="./content/6.art/15.rgb-cmy-kinetic/4.jpg" alt="4">
+          </div>
+                  <div class="item">
+            <img src="./content/6.art/15.rgb-cmy-kinetic/3.jpg" alt="3">
+          </div>
+                  <div class="item">
+            <img src="./content/6.art/15.rgb-cmy-kinetic/1.jpg" alt="1">
+          </div>
+                  <div class="item">
+            <img src="./content/6.art/15.rgb-cmy-kinetic/0.jpg" alt="0">
+          </div>
+        
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+        <span class="icon-prev"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+        <span class="icon-next"></span>
+      </a>
+    </div>
+  
+</div>
+        </div>
+        <div class="col-lg-4" id="page-desc">
+          <div id="project-title">
+    RGB|CMY Kinetic
+</div>
+<div id="project-subtitle">
+
+        <p>2015
+                           – with ART+COM
+            
+        </p>
+</div>
+<div id="project-content">
+    <p>RGB|CMY Kinetic is an audio visual-mechatronic installation. The inspiration for the work stems from the nature of light, particularly from the duality of additive and substractive colours in the way we perceive form. A white circle of light and the surrounding darkness serve as a canvas for a kinetic choreography, where an array of floating mechanical objects simultaneously cast shadows and reflect light.</p>
+
+<p>Merging industrial motor assembly and software control with highly aesthetic choreographed movement, the enabling technology and artistic expression are in an inseparable dialogue. Designed for a large space, the 5 relatively small elements moving in space animate the whole environment with their reflections and shadows from red, green and blue spotlight casting a single white circle on the floor. Small and gentle gestures are multiplied to a spatial experience, where no light is wasted, as the areas that are cast as shadows on the lit circle render the substractive primary colours, cyan, magenta and yellow, are reflected as the red, green and blue additive components on the dark background.</p>
+
+<p>The artwork is a highly collaborative effort, where precision control of industrial machinery is enabling an aesthetic visual choreography. This dialogue extends to the intimately connected musical composition with sound artist Ólafur Arnalds. The motion paths of the suspended elements are used directly as a signal to drive the sound generation making the movement an inseparable part of the musical composition.</p>
+
+<p>Light, movement, sound and materiality all carry an equal responsibility and meaning in the experience of the artwork.</p>
+
+<p>Long exposure image: Flavio Coddou</p>
+
+<p>Other photos: ©Sonar Festival</p>
+
+<p>Rendering: ART+COM</p>
+
+</div>
+
+
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+      	<div class="col-lg-12" id="footer">
+      		Jussi Ängeslevä 2016
+      	</div>
+      </div>
+    </div>
+
+    <!-- JavaScript plugins (requires jQuery) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="./public/docs/js/bootstrap.min.js"></script>
+
+    <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+    <script src="./public/docs/js/respond.js"></script>
+
+    <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-3042266-1', 'angesleva.iki.fi');
+	  ga('send', 'pageview');
+
+	</script>
+	
+  </body>
+</html>
+<!-- Stacey(2.3.0): a526696258bae1fddc018a8638d60f8e -->

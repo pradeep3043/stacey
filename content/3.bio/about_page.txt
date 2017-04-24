@@ -1,0 +1,81 @@
+title: About
+-
+content: 
+
+Media Experience Design| Interaction Designer
+<p></p>
+Rethinks, investigate and design the ways of interaction in digital, virtual and physical worlds. I am a Designer and a Maker.
+<p></p>
+I like working on creating interactive experiences in mixed media and I am interested in how digital worlds are been augmented onto physical spaces. As a designer I have worked across disciplines, solving problems in different fields. I focus use technologies into the right context (if needed) to solve and simplify the problems to bring intuitive and comfortable experiences.
+<p></p>
+With the learning and experiences during my academics and profession, I am proficient with the following methodologies and skills.
+<p></p>
+DESIGN
+<p></p>
+UX prototyping, Design Thinking, Concept Development, Information architecture, Wireframes, Visual design, Storyboards, Ethnographic research, New media studies, Physical computing
+<p></p>
+CREATIVE + CODING 
+<p></p>
+Arduino, Processing, Unity 3D, HTML/CSS, Javascript, Adobe Creative Suite (Photoshop, Illustrator, InDesign, After Effects)
+TECHNOLOGY/MEDIUM OF INTERACTIONS Internet of Things (IoT), Augmented Reality, Interactive Interfaces, Mobile Application, Web Application, Smart Televisions
+
+<hr>
+
+<b>EMPLOYMENT</b>
+<br>
+Designer, Moonraft Innovation Labs, Bangalore, Dec 2016 - till now
+Experience Designer,BeeldenGeluid (Netherlands Institute of Sound and Vision), Amsterdam, Feb 2016 - Jun 2016 
+
+Co-Founder & Designer, Kidorohealth (TarantulaLabs), Gandhinagar, Jul 2015 - Oct 2015
+
+UX Intern, Microsoft India (R&D) Private Limited, Hyderabad, May 2015 - Jul 2015 
+
+Experience Designer Intern, LinkMySport.com, Bangalore, Aug 2014 - May 2014
+
+User Interface Designer , Infosys Technologies, Bangalore, Jun 2012 - Jun 2013
+
+Software Engineer, Accenture Services, Bangalore, Aug 2010 - May 2012
+
+<hr>
+
+<b>EDUCATION</b>
+<br>
+Masters in New Media Design, National Institute of Design, Ahmedabad, 2013 - 2016
+
+Bachelor Degree in Electrical & Electronics Engineering, National Institue of Engineering, Mysore, 2006 - 2010
+
+<hr>
+
+<b> SKILLS </b>
+<br>
+<strong>Design : </strong> UX prototyping, Information architecture, Wireframing, Visual design, Concept Development,
+Storyboarding, Ethnographic research, New media studies, Physical computing
+
+<strong>Creative + Coding  : </strong> Arduino, Processing, Unity 3D, Vuforia, HTML/CSS, Javascript,
+Adobe Creative Suite (Photoshop, Illustrator, InDesign, After Effects)
+
+<hr>
+
+<b> LECTURES/ WORKSHOPS </b>
+<br>
+Open Source Hardwares for prototyping (lecture), National Institute of Engineering, Mysore, May 2014
+
+Paper to Screen - Adobe Photoshop (workshop) , National Institute of Engineering, Mysore, Jan 2009
+
+<hr>
+
+<b> AWARDS/ ACTIVITIES </b>
+<br>
+<a href="https://vimeo.com/113893287"> IXDA Student Design Challenge 2014 - Envisioning the Wearable City (Submission), Dec 2014 </a>
+
+IIHS National Student Challenge 2013 - Transform Urban India (Finalists), Oct 2013
+
+<a href="https://vimeo.com/114132779"> OZCHI 24 Hour Design Challenge, Future Email (Submission), Sep 2013 </a>
+
+All India Collage Competition, Accenture Services, Theme - Insight Driven, Apr 2011
+
+Web Designer, IEEE Student Chapter, National Institute of Engineering, Mysore, 2009
+
+Formed and lead a team for creative services, to cater Techno-Cultural events at National Institute 
+of Engineering, Mysore, 20017 - 2010
+
